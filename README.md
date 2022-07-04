@@ -3,7 +3,7 @@
 ## Columbia University Bootcamp - NoSQL Challenge: Social Network API
 
 > This repository contains my code for a social network API that uses NoSQL database. This allows my website to handle large amounts of unstructured data.
-> Link to Walkthrough Video:
+> Link to Walkthrough Video: https://drive.google.com/file/d/1NeNt35YixnPxQaOgSXBIG1iubNjTmwbr/view
 
 ## Table of Contents
 
@@ -47,9 +47,13 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Installation
 
+1. Clone the repository to your local drive.
+2. Run npm i in order to install the npm package dependencies as specified in the package.json file.
+3. Run npm start in the command line to use the application.
+
 ## Screenshots
 
-Link to Walkthrough Video:
+Link to Walkthrough Video: https://drive.google.com/file/d/1NeNt35YixnPxQaOgSXBIG1iubNjTmwbr/view
 
 ## Contact
 
